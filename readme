@@ -1,12 +1,9 @@
 # 📝 ResumeGen - React Resume Builder
-<img width="1840" height="824" alt="Screenshot 2025-07-22 212924" src="https://github.com/user-attachments/assets/6f1d28ee-b002-486f-85dd-960e303a32f7" />
-<img width="1887" height="855" alt="Screenshot 2025-07-22 212938" src="https://github.com/user-attachments/assets/5bfeecc7-32ae-43fd-9a42-119089dae63a" />
-<img width="1299" height="828" alt="Screenshot 2025-07-23 121658" src="https://github.com/user-attachments/assets/137e863c-2835-4a40-8bc0-158b802069df" />
-<img width="1827" height="398" alt="Screenshot 2025-07-23 121705" src="https://github.com/user-attachments/assets/e5b03f03-5d8b-44d1-a48f-4231d0322122" />
 
- 
 
 ResumeGen is a dynamic, React-based resume builder that lets users design professional resumes right from their browser. With customizable sections, PDF generation, and a clean UI, ResumeGen makes it effortless to create job-ready resumes.
+
+
 
 ---
 
@@ -47,8 +44,5 @@ npm start
 command = "npm run build"
 publish = "build"
 
-
-
 ---
-
 ✨ Created with ❤️ by Goli Harini
